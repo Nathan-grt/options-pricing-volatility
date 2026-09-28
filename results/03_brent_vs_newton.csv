@@ -1,0 +1,3 @@
+Méthode,Taux de succès (%),Itérations moyennes,Itérations médianes,Temps total (s),Temps / option (ms)
+Brent,100.0,11.440984003877848,13.0,33.461393408999996,4.054943457222491
+Newton-Raphson,81.03490063015026,4.629729325557051,4.0,12.721497682000006,1.5416259915172088

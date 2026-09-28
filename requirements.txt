@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+pyarrow>=12.0      # lecture/écriture parquet (cache des données)
+tabulate>=0.9      # export des tableaux de résultats en Markdown
+pytest>=7.0
+jupyter>=1.0

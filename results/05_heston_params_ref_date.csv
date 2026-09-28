@@ -1,0 +1,6 @@
+Paramètre,Point de départ retenu,Calibré,Interprétation
+v0,0.04028653297596813,0.0423356035004304,vol instantanée √v0 = 20.6%
+kappa,2.0,9.364908026947438,demi-vie du choc de variance ≈ 0.9 mois
+theta,0.050480180538094305,0.0719842530828653,vol de long terme √θ = 26.8%
+xi,0.5,2.1242627121539064,vol-of-vol
+rho,-0.7,-0.5961805805623837,corrélation spot-variance

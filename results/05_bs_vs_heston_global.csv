@@ -1,0 +1,4 @@
+Modèle,Nb paramètres,RMSE (pts),MAE (pts),Erreur max (pts)
+Black-Scholes (1 vol pour toute la surface),1,5.813135171219578,4.643924562767999,19.753020116672626
+Black-Scholes (vol ATM par maturité),6,7.16402298276546,5.182351870308232,25.0652719935157
+Heston (5 paramètres),5,0.8826281024364961,0.6892822808657086,3.61441082154294

@@ -1,0 +1,20 @@
+# Données (trop volumineuses pour GitHub, voir data/README.md)
+data/*.csv
+data/*.parquet
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+.env
+
+# IDE / OS
+.spyproject/
+.vscode/
+.idea/
+.DS_Store
